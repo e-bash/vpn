@@ -82,6 +82,8 @@ MacOS, то ничего дополнительно скачивать не пр
 Для мобильных устройств бесплатные приложения есть в [AppStore](https://apps.apple.com/us/app/openvpn-connect/id590379981) 
 и [GooglePlay](https://play.google.com/store/apps/details?id=net.openvpn.openvpn&hl=ru&gl=US)
 
+https://openvpn.net/client-connect-vpn-for-mac-os/
+
 #### Подключение к серверу и настройка сервиса VPN
 На данном этапе приступим к непосредственной настройке VPN-сервиса на нашем сервере. Здесь нам понадобятся `IP-адрес` и 
 `пароль root-пользователя`, которые мы получили на при регистрации сервера на первом шаге.
